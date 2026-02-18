@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドクドク",
+  "base_artist": "cono",
+  "createdAt": "2026-02-18T17:31:37.801868Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドクドク",
+      "artist": "cono",
+      "has_synced": false,
+      "path": "select/pl_01_ドクドク_cono.txt"
+    }
+  ]
+}
